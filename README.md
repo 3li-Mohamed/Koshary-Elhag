@@ -1,5 +1,3 @@
 # Koshary-Elhag
 Koshary-Elhag 
-A simple website showcasing the Egyptian Koshary Elhag restaurant using HTML and CSS,.
-The site includes dishes, a special section, customer reviews, and contact information.
-Created as a small practice project to improve my frontend skills.
+A simple website of Koshary Elhag Resturant. It provides some pages about our main dishes, special one, some informaion about our chef, what our clients said about us, and if you want to contact us, there is a page where you can visit, call, or send us any massage you want. 
